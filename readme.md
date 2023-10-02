@@ -12,5 +12,6 @@ Viet Tan: hello
 
 Uyen Nguyen: hello
 
-Le Dat: This is a message to test my branch
+Thanh Thang: hello
 
+Le Dat: This is a message to test my branch
